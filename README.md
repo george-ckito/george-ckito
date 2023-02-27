@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on molecule<br>🌱 I’m currently learning ReactJS<br>👯 I’m looking to collaborate on discord.js bots<br>🤝 I’m looking for help with molecule<br>👨‍💻 All of my projects are available at https://georgeckito.lol//<br>💬 Ask me about backend javascript, c#<br>📫 How to reach me itsslime7@gmail.com
+🔭 I’m currently working on molecule<br>🌱 I’m currently learning ReactJS<br>👯 I’m looking to collaborate on discord.js bots<br>🤝 I’m looking for help with molecule<br>👨‍💻 All of my projects are available at https://georgeckito.lol/<br>💬 Ask me about backend javascript, c#<br>📫 How to reach me itsslime7@gmail.com
 
 
 ## 🌐 Socials:
