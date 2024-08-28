@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Jsquick CLI, Which is coded in C++ <br>💽I like working with old computers, and hosting different type of servers on them<br>👨‍💻My favorite language is C++<br>🌐You can learn more about me at https://georgeckito.xyz<br>🕸️Check out my latest project - https://jsquick.georgeckito.xyz
+🔭I'm currently working on Jsquick CLI, Which is coded in C++ <br>💽I like working with old computers, and hosting different type of servers on them<br>👨‍💻My favorite language is C++<br>🌐You can learn more about me at https://georgeckito.site<br>🕸️Check out my latest project - https://jsquick.georgeckito.site
 
 
 ## 🌐 Socials:
