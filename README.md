@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Jsquick CLI, Which is coded in C++ <br>💽I like working with old computers, and hosting different type of servers on them<br>👨‍💻My favorite language is C++<br>🌐You can learn more about me at https://georgeckito.site<br>🕸️Check out my latest project - https://jsquick.georgeckito.site
+🔭I'm currently working on CP. I like working with old computers, and hosting different type of servers on them<br>👨‍💻My favorite language is C++<br>🌐You can learn more about me at https://georgeckito.site<br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=george-ckito&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=george-ckito&theme=dark&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=george-ckito&limit=5&theme=dark&combine_all_yearly_contributions=true)
